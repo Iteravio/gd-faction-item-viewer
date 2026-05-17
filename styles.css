@@ -216,7 +216,7 @@ h2 {
 /* Augment type label */
 
 .augment-type {
-    color: #6e6c68;
+    color: #9b978e;
     font-family: 'Philosopher', serif;
     font-size: 0.62rem;
     text-align: center;
@@ -270,17 +270,31 @@ h2 {
         margin-left: 8px;
     }
 
-/* Required level */
+/* Required level and Faction */
 
-.required-level {
-    color: #b8ab96;
-    font-family: 'Philosopher', serif;
+.required-level-and-faction-row {
+    display: flex;
     font-size: 0.62rem;
-    text-align: center;
+    justify-content: space-between;
     margin-top: 6px;
     padding-top: 4px;
     border-top: 1px solid #222120;
 }
+
+    .required-level {
+        color: #b8ab96;
+        font-family: 'Philosopher', serif;
+    }
+
+    .faction-name {
+        color: #adaaa4;
+        font-family: 'Philosopher', serif;
+        font-size: 0.5rem;
+        font-style: italic;
+        text-align: right;
+    }
+
+/* Misc stuff */
 
 #no-results {
     display: none;
@@ -291,6 +305,8 @@ h2 {
     font-size: 0.9rem;
     letter-spacing: 0.05em;
 }
+
+/* Mobile stuff  */
 
 @media (max-width: 600px) {
     #search-and-level-selection-rows {

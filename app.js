@@ -177,16 +177,26 @@ function create_item_card(item) {
 
     }
 
+    const requiredLevelandFactionRow = document.createElement("div");
+    requiredLevelandFactionRow.className = "required-level-and-faction-row";
+
     const requiredLevel = document.createElement("div");
     requiredLevel.className = "required-level"
     requiredLevel.textContent = `Required Level: ${item.required_level}`
 
+    const factionName = document.createElement("div");
+    factionName.className = "faction-name";
+    factionName.textContent = item.faction;
+
     imgAndStats.appendChild(allStatsArea);
+
+    requiredLevelandFactionRow.appendChild(requiredLevel);
+    requiredLevelandFactionRow.appendChild(factionName);
 
     card.appendChild(titleRow);
     card.appendChild(augmentType);
     card.appendChild(imgAndStats);
-    card.appendChild(requiredLevel);
+    card.appendChild(requiredLevelandFactionRow);
 
     return card;
 }
