@@ -10,27 +10,30 @@
         <h2>Grim Dawn Faction Item Viewer</h2>
 
          <div id="search-and-buttons-area">
-            <div id="search-and-level-selection-row">
+            <div id="search-and-level-selection-rows">
                <input type="text" id="searchInput" autocomplete="off" placeholder="Search items, stats, resistances..." />
 
+               <div id="level-selection-row">
                   <span class="level-label">MIN LEVEL:</span>
-                  <select class="level-selection" id="level-min-select">
-                     <option value="0" selected>0</option>
-                     <option value="40">40</option>
-                     <option value="50">50</option>
-                     <option value="65">65</option>
-                     <option value="70">70</option>
-                     <option value="90">90</option>
+                     <select class="level-selection" id="level-min-select">
+                        <option value="0" selected>0</option>
+                        <option value="40">40</option>
+                        <option value="50">50</option>
+                        <option value="65">65</option>
+                        <option value="70">70</option>
+                        <option value="90">90</option>
                   </select>
 
                   <span class="level-label">MAX LEVEL:</span>
-                  <select class="level-selection" id="level-max-select">
-                     <option value="40">40</option>
-                     <option value="50">50</option>
-                     <option value="65">65</option>
-                     <option value="70">70</option>
-                     <option value="90" selected>90</option>
+                     <select class="level-selection" id="level-max-select">
+                        <option value="40">40</option>
+                        <option value="50">50</option>
+                        <option value="65">65</option>
+                        <option value="70">70</option>
+                        <option value="90" selected>90</option>
                   </select>
+
+               </div>
             </div>
             <div id="buttons-area">
                 <button class="filter-btn active" data-type="all_augments">All Augments</button>

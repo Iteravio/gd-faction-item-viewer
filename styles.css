@@ -27,7 +27,7 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
-#search-and-level-selection-row {
+#search-and-level-selection-rows {
     display: flex;
     gap: 8px;
     align-items: center;
@@ -55,33 +55,38 @@ h2 {
             border-color: #deb46e;
         }
 
-    .level-selection {
-        background-color: transparent;
-        border: 1px solid #a87635;
-        color: #deb46e;
-        font-family: 'Cinzel', serif;
-        font-size: 0.8rem;
-        padding: 6px 10px;
-        border-radius: 4px;
-        outline: none;
-        cursor: pointer;
-    }
-
-        .level-label {
-            font-family: 'Cinzel', serif;
-            font-size: 0.75rem;
-            color: #a87635;
-            white-space: nowrap;
+        #level-selection-row {
+            display: flex;
+            align-items: center;
+            gap: 8px;
         }
+            .level-selection {
+                background-color: transparent;
+                border: 1px solid #a87635;
+                color: #deb46e;
+                font-family: 'Cinzel', serif;
+                font-size: 0.8rem;
+                padding: 6px 10px;
+                border-radius: 4px;
+                outline: none;
+                cursor: pointer;
+            }
 
-        .level-selection:focus {
-            border-color: #deb46e;
-        }
+            .level-label {
+                font-family: 'Cinzel', serif;
+                font-size: 0.75rem;
+                color: #a87635;
+                white-space: nowrap;
+            }
 
-        .level-selection option {
-            background-color: #1a1815;
-            color: #deb46e;
-        }
+            .level-selection:focus {
+                border-color: #deb46e;
+            }
+
+            .level-selection option {
+                background-color: #1a1815;
+                color: #deb46e;
+            }
 
 #buttons-area {
     display: flex;
@@ -285,4 +290,29 @@ h2 {
     margin-top: 3rem;
     font-size: 0.9rem;
     letter-spacing: 0.05em;
+}
+
+@media (max-width: 600px) {
+    #search-and-level-selection-rows {
+        flex-wrap: wrap;
+    }
+
+    #searchInput {
+        width: 100%;
+        flex: none;
+    }
+
+    #level-selection-row {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .faction-area {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .faction-items {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
 }
