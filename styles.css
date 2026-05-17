@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Philosopher&display=swap');
+
+/* ─── Base ─────────────────────────────────────────────── */
+
+body {
+    background-color: #11100f;
+    margin: 0;
+    padding: 0 1rem 3rem;
+    box-sizing: border-box;
+}
+
+h2 {
+    font-family: 'Cinzel', serif;
+    color: #deb46e;
+    text-align: center;
+    font-size: 1.4rem;
+    letter-spacing: 0.08em;
+    margin: 1.5rem 0 0.5rem;
+    text-shadow: 0 0 18px #a8763440;
+}
+
+/* ─── Search, Level Selection & Filter Buttons ───────────────────────────────────── */
+
+#search-and-buttons-area {
+    padding: 10px 10px 14px;
+    border-bottom: 1px solid #2a2826;
+    margin-bottom: 1.5rem;
+}
+
+#search-and-level-selection-row {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+    #searchInput {
+        flex: 1;
+        box-sizing: border-box;
+        background-color: transparent;
+        border: 1px solid #a87635;
+        color: #deb46e;
+        font-family: 'Cinzel', serif;
+        font-size: 0.8rem;
+        padding: 6px 14px;
+        border-radius: 4px;
+        outline: none;
+        transition: border-color 0.2s;
+    }
+
+        #searchInput::placeholder {
+            color: #555;
+        }
+
+        #searchInput:focus {
+            border-color: #deb46e;
+        }
+
+    .level-selection {
+        background-color: transparent;
+        border: 1px solid #a87635;
+        color: #deb46e;
+        font-family: 'Cinzel', serif;
+        font-size: 0.8rem;
+        padding: 6px 10px;
+        border-radius: 4px;
+        outline: none;
+        cursor: pointer;
+    }
+
+        .level-label {
+            font-family: 'Cinzel', serif;
+            font-size: 0.75rem;
+            color: #a87635;
+            white-space: nowrap;
+        }
+
+        .level-selection:focus {
+            border-color: #deb46e;
+        }
+
+        .level-selection option {
+            background-color: #1a1815;
+            color: #deb46e;
+        }
+
+#buttons-area {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8px;
+    gap: 6px;
+}
+
+.filter-btn {
+    flex: 1;
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid #a87635;
+    color: #a87635;
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    font-weight: bold;
+    padding: 3px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+    .filter-btn:hover,
+    .filter-btn.active {
+        background-color: #a87635;
+        color: #11100f;
+    }
+
+/* ─── Factions Layout ───────────────────────────────────── */
+
+#all-factions-area {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    justify-content: center;
+    padding: 0 0.5rem;
+}
+
+.faction-area {
+    border: 1px solid #3a3530;
+    border-top: 2px solid #a87635;
+    border-radius: 6px;
+    padding: 0.6rem 0.6rem 0.8rem;
+    background-color: #131211;
+}
+
+.faction-img-and-title-area {
+    color: #deb46e;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #2a2826;
+}
+
+    .faction-img-and-title-area h3 {
+        font-family: 'Cinzel', serif;
+        font-size: 0.85rem;
+        margin: 0;
+        letter-spacing: 0.04em;
+    }
+
+    .faction-img {
+        width: 36px;
+        height: 36px;
+    }
+
+/* ─── Items Grid ────────────────────────────────────────── */
+
+.faction-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 0.5fr));
+    justify-content: center;
+    gap: 8px;
+}
+
+/* ─── Item Card ─────────────────────────────────────────── */
+
+.item-card {
+    background-color: #171614;
+    border: 1px solid #2a2826;
+    border-radius: 6px;
+    padding: 0.5rem;
+    transition: background-color 0.15s, border-color 0.15s;
+}
+
+    .item-card:hover {
+        background-color: #1d1b19;
+        border-color: #3a3530;
+    }
+
+/* Title row */
+
+.item-title-row {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-bottom: 1px;
+}
+
+    .item-title-row h4 {
+        font-family: 'Cinzel', serif;
+        font-size: 0.75rem;
+        color: #c49040;
+        margin: 0;
+        letter-spacing: 0.02em;
+    }
+
+/* Reputation badge */
+
+.reputation-badge {
+    font-family: 'Cinzel', serif;
+    font-size: 0.6rem;
+    padding: 1px 5px;
+    border-radius: 3px;
+    border: 1px solid currentColor;
+    margin-left: auto;
+    flex-shrink: 0;
+    opacity: 0.9;
+}
+
+    .honored { color: #ffed9b; }
+    .revered { color: #ffc400; }
+
+/* Augment type label */
+
+.augment-type {
+    color: #6e6c68;
+    font-family: 'Philosopher', serif;
+    font-size: 0.62rem;
+    text-align: center;
+    margin-bottom: 5px;
+    letter-spacing: 0.03em;
+}
+
+/* Image + stats row */
+
+.item-img-and-stats {
+    display: flex;
+    align-items: center;
+    font-size: 0.7rem;
+}
+
+.item-img {
+    background-image: url("resources/images/atlas.png");
+    flex-shrink: 0;
+    margin-right: 8px;
+    align-self: flex-start;
+}
+
+/* Stats */
+
+.all-stats-area ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.all-stats-area li {
+    line-height: 1.45;
+}
+
+/* Pet bonuses */
+
+.pet-stats-section {
+    margin-top: 3px;
+}
+
+    .pet-stats-section h5 {
+        font-family: 'Philosopher', serif;
+        color: #d1c7a4;
+        font-size: 0.65rem;
+        font-weight: normal;
+        margin: 0 0 2px;
+        letter-spacing: 0.02em;
+    }
+
+    .pet-stats-section ul {
+        margin-left: 8px;
+    }
+
+/* Required level */
+
+.required-level {
+    color: #b8ab96;
+    font-family: 'Philosopher', serif;
+    font-size: 0.62rem;
+    text-align: center;
+    margin-top: 6px;
+    padding-top: 4px;
+    border-top: 1px solid #222120;
+}
+
+#no-results {
+    display: none;
+    color: #6e6c68;
+    font-family: 'Philosopher', serif;
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+}

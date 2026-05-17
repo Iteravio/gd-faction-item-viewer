@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GD Faction Item Viewer</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+        <h2>Grim Dawn Faction Item Viewer</h2>
+
+         <div id="search-and-buttons-area">
+            <div id="search-and-level-selection-row">
+               <input type="text" id="searchInput" autocomplete="off" placeholder="Search items, stats, resistances..." />
+
+                  <span class="level-label">MIN LEVEL:</span>
+                  <select class="level-selection" id="level-min-select">
+                     <option value="0" selected>0</option>
+                     <option value="40">40</option>
+                     <option value="50">50</option>
+                     <option value="65">65</option>
+                     <option value="70">70</option>
+                     <option value="90">90</option>
+                  </select>
+
+                  <span class="level-label">MAX LEVEL:</span>
+                  <select class="level-selection" id="level-max-select">
+                     <option value="40">40</option>
+                     <option value="50">50</option>
+                     <option value="65">65</option>
+                     <option value="70">70</option>
+                     <option value="90" selected>90</option>
+                  </select>
+            </div>
+            <div id="buttons-area">
+                <button class="filter-btn active" data-type="all_augments">All Augments</button>
+                <button class="filter-btn" data-type="accessory_augment">Accessory Augments</button>
+                <button class="filter-btn" data-type="weapon_augment">Weapon Augments</button>
+                <button class="filter-btn" data-type="armor_augment">Armor Augments</button>
+                <button class="filter-btn" data-type="pet_augment">Pet Augments</button>
+            </div>
+         </div>
+
+         <div id="all-factions-area">
+            <div class="faction-area" id="devils-crossing-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/devils_crossing.webp" class="faction-img">
+                    <h3>Devil's Crossing</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="homestead-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/homestead.webp" class="faction-img">
+                    <h3>Homestead</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="the-black-legion-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/the_black_legion.webp" class="faction-img">
+                    <h3>The Black Legion</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="kymons-chosen-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/kymons_chosen.webp" class="faction-img">
+                    <h3>Kymon's Chosen</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="order-of-deaths-vigil-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/order_of_deaths_vigil.webp" class="faction-img">
+                    <h3>Order of Death's Vigil</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="rovers-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/rovers.webp" class="faction-img">
+                    <h3>Rovers</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="the-outcast-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/the_outcast.webp" class="faction-img">
+                    <h3>The Outcast</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="coven-of-ugdenbog-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/coven_of_ugdenbog.webp" class="faction-img">
+                    <h3>Coven of Ugdenbog</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="barrowholm-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/barrowholm.webp" class="faction-img">
+                    <h3>Barrowholm</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="malmouth-resistance-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/malmouth_resistance.webp" class="faction-img">
+                    <h3>Malmouth Resistance</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="cult-of-bysmiel-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/cult_of_bysmiel.webp" class="faction-img">
+                    <h3>Cult of Bysmiel</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="cult-of-dreeg-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/cult_of_dreeg.webp" class="faction-img">
+                    <h3>Cult of Dreeg</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+            <div class="faction-area" id="cult-of-solael-area">
+                 <div class="faction-img-and-title-area">
+                    <img src="resources/images/factions/cult_of_solael.webp" class="faction-img">
+                    <h3>Cult of Solael</h3>
+                 </div>
+                <div class="faction-items">
+
+                </div>
+            </div>
+
+         </div>
+         <div id="no-results">No items found.</div>
+
+        <script src="app.js"></script>
+    </body>
+</html>

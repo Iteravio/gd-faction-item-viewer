@@ -1,0 +1,5791 @@
+[
+  {
+    "name": "Boneback Spine",
+    "stats": {
+      "player": [
+        "+25% Pierce Damage",
+        "+25% Bleeding Damage",
+        "+20 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2592px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Corpsefiend Tentacle",
+    "stats": {
+      "player": [
+        "+25% Vitality Damage",
+        "+25% Aether Damage",
+        "10% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-768px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Gazer Eye",
+    "stats": {
+      "player": [
+        "+25% Lightning Damage",
+        "+25% Aether Damage",
+        "10% Aether Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2912px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Rifthound Salts",
+    "stats": {
+      "player": [],
+      "pet": [
+        "+3% Total Speed",
+        "8% Chaos Resistance",
+        "15% Elemental Resistance"
+      ]
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-992px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Slith Venom",
+    "stats": {
+      "player": [
+        "15% Poison & Acid Resistance",
+        "15% Bleeding Resistance",
+        "54 Acid Retaliation",
+        "+10% to All Retaliation Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-3072px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Cairn's Hope",
+    "stats": {
+      "player": [
+        "+3% Health",
+        "Increases Health Regeneration by 15%",
+        "Increases Energy Regeneration by 15%",
+        "18% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2336px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Overseer's Gaze",
+    "stats": {
+      "player": [
+        "+30% Lightning Damage",
+        "+10% Stun Duration",
+        "+25 Offensive Ability",
+        "15% Aether Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2464px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Song of the Elements",
+    "stats": {
+      "player": [
+        "+30% Fire Damage",
+        "+30% Cold Damage",
+        "15% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2464px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Survivor's Ally",
+    "stats": {
+      "player": [
+        "12% Elemental Resistance"
+      ],
+      "pet": [
+        "+15% to All Damage",
+        "+12% Health"
+      ]
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3360px -1440px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Survivor's Ingenuity",
+    "stats": {
+      "player": [
+        "+20% to All Damage",
+        "+2% Offensive Ability",
+        "+2% Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2144px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Survivor's Perseverance",
+    "stats": {
+      "player": [
+        "+30% Aether Damage",
+        "+30% Chaos Damage",
+        "12% Aether Resistance",
+        "12% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3360px -1760px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Survivor's Resilience",
+    "stats": {
+      "player": [
+        "+3% Health",
+        "+3% Shield Block Chance",
+        "+20% Shield Damage Blocked"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2624px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Viloth's Bite",
+    "stats": {
+      "player": [
+        "80 Poison Damage over 5 Seconds",
+        "+30% Poison Damage",
+        "3% Chance to Confuse target for 2 Seconds",
+        "12% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2784px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Bladeward Powder",
+    "stats": {
+      "player": [
+        "12% Pierce Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-736px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Mogdrogen's Touch",
+    "stats": {
+      "player": [
+        "12% Poison & Acid Resistance",
+        "9% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Devil's Crossing",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1024px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Arkovian Bonemeal",
+    "stats": {
+      "player": [
+        "8 Vitality Damage",
+        "+25% Vitality Damage",
+        "+8% Damage to Undead"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1824px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Arkovian Rose Powder",
+    "stats": {
+      "player": [
+        "+18% Elemental Damage",
+        "+1 Energy Regenerated per second",
+        "10% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2880px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Conjurer's Powder",
+    "stats": {
+      "player": [
+        "+20% Elemental Damage",
+        "+3% Health"
+      ],
+      "pet": [
+        "+12% to All Damage"
+      ]
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1696px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Arkovian Bonemeal",
+    "stats": {
+      "player": [
+        "18 Vitality Damage",
+        "+60% Vitality Damage",
+        "+16% Damage to Undead"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1216px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Troll Wart Powder",
+    "stats": {
+      "player": [
+        "+7% Health",
+        "+36 Health Regenerated per second",
+        "Increases Health Regeneration by 16%"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1760px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Winterbloom Powder",
+    "stats": {
+      "player": [
+        "+60% Cold Damage",
+        "+60% Frostburn Damage",
+        "+40 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2848px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Rotbloom Powder",
+    "stats": {
+      "player": [
+        "+25% Vitality Damage",
+        "+25% Chaos Damage",
+        "+3% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-352px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Slithweed Powder",
+    "stats": {
+      "player": [
+        "+25% Acid Damage",
+        "+25% Poison Damage",
+        "+14 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1888px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Stormtail Viper Venom",
+    "stats": {
+      "player": [
+        "+25% Lightning Damage",
+        "+25% Electrocute Damage",
+        "+20 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2240px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Troll Wart Powder",
+    "stats": {
+      "player": [
+        "+3% Health",
+        "+16 Health Regenerated per second",
+        "Increases Health Regeneration by 8%"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2208px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Winterbloom Powder",
+    "stats": {
+      "player": [
+        "+25% Cold Damage",
+        "+25% Frostburn Damage",
+        "+18 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2144px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Breath of Life",
+    "stats": {
+      "player": [
+        "+4% Health",
+        "Increases Health Regeneration by 10%",
+        "15% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1152px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Mogdrogen's Blessing",
+    "stats": {
+      "player": [],
+      "pet": [
+        "+5% Health",
+        "+3% Offensive Ability",
+        "+5% Attack Speed"
+      ]
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2848px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Mogdrogen's Sanctity",
+    "stats": {
+      "player": [
+        "4% Less Damage from Beasts",
+        "+180 Health",
+        "+20 Health Regenerated per second",
+        "12% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1696px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Nature's Wrath",
+    "stats": {
+      "player": [
+        "+30% Acid Damage",
+        "+30% Poison Damage",
+        "+2% Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2656px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Rhowan's Resolve",
+    "stats": {
+      "player": [
+        "+30% Physical Damage",
+        "Increases Armor Absorption by 2%",
+        "75 Acid Retaliation",
+        "+16% to All Retaliation Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-64px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Rhowan's Wisdom",
+    "stats": {
+      "player": [
+        "+30% Elemental Damage",
+        "+2% Spirit",
+        "+2% Casting Speed",
+        "12% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2048px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Spirit of Vengeance",
+    "stats": {
+      "player": [
+        "+30% Vitality Damage",
+        "+4% Health",
+        "75 Vitality Retaliation",
+        "+16% to All Retaliation Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-896px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Traveler's Boon",
+    "stats": {
+      "player": [
+        "+2% Movement Speed",
+        "+40 Armor",
+        "10% Entrapment Resistance",
+        "15% Slow Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "0 -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Winter's Chill",
+    "stats": {
+      "player": [
+        "+30% Cold Damage",
+        "+30% Frostburn Damage",
+        "3% Chance to Freeze target for 2 Seconds",
+        "15% Freeze Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2432px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Nightshade Powder",
+    "stats": {
+      "player": [
+        "9% Pierce Resistance",
+        "12% Cold Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2784px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Venomguard Powder",
+    "stats": {
+      "player": [
+        "18% Poison & Acid Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Rovers",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1952px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Beast Tamer's Powder",
+    "stats": {
+      "player": [],
+      "pet": [
+        "+12% to All Damage",
+        "+4% Defensive Ability"
+      ]
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1504px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Dermapteran Chitin",
+    "stats": {
+      "player": [
+        "8% Pierce Resistance",
+        "10% Stun Resistance",
+        "Increases Armor by 4%"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1536px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Beast Tamer's Powder",
+    "stats": {
+      "player": [],
+      "pet": [
+        "+28% to All Damage",
+        "+8% Defensive Ability"
+      ]
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-192px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Dermapteran Chitin",
+    "stats": {
+      "player": [
+        "16% Pierce Resistance",
+        "20% Stun Resistance",
+        "Increases Armor by 8%"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2432px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Raincaller Powder",
+    "stats": {
+      "player": [
+        "+60% Lightning Damage",
+        "+60% Electrocute Damage",
+        "+40 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2816px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Stonetusk Hoof",
+    "stats": {
+      "player": [
+        "+60% Physical Damage",
+        "+60% Internal Trauma Damage",
+        "+80 Armor"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2656px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Voidvine Powder",
+    "stats": {
+      "player": [
+        "18 Fire Damage",
+        "+60% Fire Damage",
+        "12% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2144px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Raincaller Powder",
+    "stats": {
+      "player": [
+        "+25% Lightning Damage",
+        "+25% Electrocute Damage",
+        "+18 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2176px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Stonetusk Hoof",
+    "stats": {
+      "player": [
+        "+25% Physical Damage",
+        "+25% Internal Trauma Damage",
+        "+35 Armor"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1184px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Voidvine Powder",
+    "stats": {
+      "player": [
+        "8 Fire Damage",
+        "+25% Fire Damage",
+        "6% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1024px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Beastlord's Calling",
+    "stats": {
+      "player": [],
+      "pet": [
+        "+15% to All Damage",
+        "+5% Health",
+        "+3% Defensive Ability"
+      ]
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3360px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Menhir's Blessing",
+    "stats": {
+      "player": [
+        "+10% Stun Duration",
+        "+17 Physique",
+        "Increases Armor by 5%"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1504px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Nature's Harvest",
+    "stats": {
+      "player": [
+        "+35% Poison Damage",
+        "10% Chance of 55 Reduced target's Defensive Ability for 5 Seconds",
+        "+6% Damage to Humans",
+        "+3% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-960px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Beastlord's Calling",
+    "stats": {
+      "player": [],
+      "pet": [
+        "+32% to All Damage",
+        "+10% Health",
+        "+6% Defensive Ability"
+      ]
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3360px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Menhir's Blessing",
+    "stats": {
+      "player": [
+        "+20% Stun Duration",
+        "+35 Physique",
+        "Increases Armor by 10%"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2336px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Nature's Harvest",
+    "stats": {
+      "player": [
+        "+80% Poison Damage",
+        "20% Chance of 55 Reduced target's Defensive Ability for 5 Seconds",
+        "+12% Damage to Humans",
+        "+7% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3296px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Solar Radiance",
+    "stats": {
+      "player": [
+        "22 Fire Damage",
+        "+80% Fire Damage",
+        "+45 Offensive Ability",
+        "+20% Energy Absorbed from Enemy Spells"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1344px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Solar Radiance",
+    "stats": {
+      "player": [
+        "10 Fire Damage",
+        "+35% Fire Damage",
+        "+22 Offensive Ability",
+        "+10% Energy Absorbed from Enemy Spells"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-32px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Flameweave Powder",
+    "stats": {
+      "player": [
+        "9% Pierce Resistance",
+        "12% Fire Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1344px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Solarstorm Powder",
+    "stats": {
+      "player": [
+        "12% Fire Resistance",
+        "12% Lightning Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Homestead",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3360px -1504px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Aether Dust",
+    "stats": {
+      "player": [
+        "8 Aether Damage",
+        "+25% Aether Damage",
+        "+5% Damage to Aetherials",
+        "+5% Damage to Aether Corruptions"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1472px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Blacksteel Powder",
+    "stats": {
+      "player": [
+        "+25% Physical Damage",
+        "+25% Fire Damage",
+        "+18 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2720px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Manticore Venom",
+    "stats": {
+      "player": [
+        "40 Poison Damage over 5 Seconds",
+        "+25% Poison Damage",
+        "+5% Damage to Chthonics"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1088px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Aether Dust",
+    "stats": {
+      "player": [
+        "18 Aether Damage",
+        "+60% Aether Damage",
+        "+10% Damage to Aetherials",
+        "+10% Damage to Aether Corruptions"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-800px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Blacksteel Powder",
+    "stats": {
+      "player": [
+        "+60% Physical Damage",
+        "+60% Fire Damage",
+        "+40 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-128px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Manticore Venom",
+    "stats": {
+      "player": [
+        "90 Poison Damage over 5 Seconds",
+        "+60% Poison Damage",
+        "+10% Damage to Chthonics"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-3104px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Voidbeast Powder",
+    "stats": {
+      "player": [
+        "+60% Vitality Damage",
+        "+60% Chaos Damage",
+        "+40 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2368px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Witch's Powder",
+    "stats": {
+      "player": [],
+      "pet": [
+        "+6% Offensive Ability",
+        "+12% Attack Speed"
+      ]
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2272px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Voidbeast Powder",
+    "stats": {
+      "player": [
+        "+25% Vitality Damage",
+        "+25% Chaos Damage",
+        "+18 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1664px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Witch's Powder",
+    "stats": {
+      "player": [],
+      "pet": [
+        "+3% Offensive Ability",
+        "+6% Attack Speed"
+      ]
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1760px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Aetherstorm Powder",
+    "stats": {
+      "player": [
+        "+35% Lightning Damage",
+        "+35% Aether Damage",
+        "4% Less Damage from Aetherials",
+        "4% Less Damage from Aether Corruptions",
+        "10% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1728px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Creed's Cunning",
+    "stats": {
+      "player": [
+        "+35% Elemental Damage",
+        "+200 Health",
+        "+22 Offensive Ability",
+        "+1 Energy Regenerated per second"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1632px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Essence of Ch'thon",
+    "stats": {
+      "player": [
+        "+35% Vitality Damage",
+        "+35% Chaos Damage",
+        "15% Chance of 15% Reduced target's Resistances for 5 Seconds",
+        "8% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3104px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Oleron's Fervor",
+    "stats": {
+      "player": [
+        "10% Chance of +200% to All Damage",
+        "+35% Physical Damage",
+        "+35% Bleeding Damage",
+        "10% Pierce Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-832px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Aetherstorm Powder",
+    "stats": {
+      "player": [
+        "+80% Lightning Damage",
+        "+80% Aether Damage",
+        "8% Less Damage from Aetherials",
+        "8% Less Damage from Aether Corruptions",
+        "20% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1664px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Creed's Cunning",
+    "stats": {
+      "player": [
+        "+80% Elemental Damage",
+        "+440 Health",
+        "+45 Offensive Ability",
+        "+2 Energy Regenerated per second"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-224px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Essence of Ch'thon",
+    "stats": {
+      "player": [
+        "+80% Vitality Damage",
+        "+80% Chaos Damage",
+        "30% Chance of 15% Reduced target's Resistances for 5 Seconds",
+        "16% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1376px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Oleron's Fervor",
+    "stats": {
+      "player": [
+        "10% Chance of +500% to All Damage",
+        "+80% Physical Damage",
+        "+80% Bleeding Damage",
+        "20% Pierce Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-928px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Ulgrim's Guile",
+    "stats": {
+      "player": [
+        "18 Piercing Damage",
+        "+60% Pierce Damage",
+        "+80% Cold Damage",
+        "+45 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3360px -1696px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Ulgrim's Guile",
+    "stats": {
+      "player": [
+        "8 Piercing Damage",
+        "+25% Pierce Damage",
+        "+35% Cold Damage",
+        "+22 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3360px -2272px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Kingsguard Powder",
+    "stats": {
+      "player": [
+        "9% Pierce Resistance",
+        "12% Poison & Acid Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1312px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Mankind's Vigil",
+    "stats": {
+      "player": [
+        "9% Aether Resistance",
+        "9% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Black Legion",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1536px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Blessed Ashes",
+    "stats": {
+      "player": [
+        "+14 Defensive Ability",
+        "15% Fire Resistance",
+        "15% Lightning Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2016px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Consecrated Silver",
+    "stats": {
+      "player": [
+        "+25% Physical Damage",
+        "+5% Damage to Chthonics",
+        "12% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1408px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Divine Flame",
+    "stats": {
+      "player": [
+        "+25% Fire Damage",
+        "+25% Lightning Damage",
+        "10% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1792px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Firebloom Powder",
+    "stats": {
+      "player": [
+        "+35% Burn Damage",
+        "+20 Offensive Ability",
+        "+15 Health Regenerated per second"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1024px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Storm Powder",
+    "stats": {
+      "player": [
+        "+100 Health",
+        "15% Lightning Resistance",
+        "1-107 Lightning Retaliation",
+        "+10% to All Retaliation Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-416px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Empyrion's Touch",
+    "stats": {
+      "player": [
+        "30 Electrocute Damage over 3 Seconds",
+        "+100% Electrocute Damage",
+        "+20 Health Regenerated per second",
+        "+10% Energy Absorbed from Enemy Spells"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2208px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Infernal Dust",
+    "stats": {
+      "player": [
+        "30 Burn Damage over 3 Seconds",
+        "+100% Burn Damage",
+        "+25 Offensive Ability",
+        "12% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-736px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Kymon's Fury",
+    "stats": {
+      "player": [
+        "+30% Physical Damage",
+        "+30% Bleeding Damage",
+        "+2% Defensive Ability",
+        "10% Reflected Damage Reduction"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1920px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Kymon's Vision",
+    "stats": {
+      "player": [
+        "+30% Lightning Damage",
+        "+30% Electrocute Damage",
+        "+25 Offensive Ability",
+        "12% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3200px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Kymon's Will",
+    "stats": {
+      "player": [
+        "+30% Fire Damage",
+        "+30% Burn Damage",
+        "33% Chance of 10% Reduced target's Damage for 5 Seconds",
+        "+2% Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1504px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Demonbane Powder",
+    "stats": {
+      "player": [
+        "9% Vitality Resistance",
+        "9% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2976px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Kymon's Blessing",
+    "stats": {
+      "player": [
+        "18% Fire Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2112px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Kymon's Conduit",
+    "stats": {
+      "player": [
+        "18% Lightning Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Kymon's Chosen",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-608px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Binding Dust",
+    "stats": {
+      "player": [],
+      "pet": [
+        "+8% Health",
+        "15% Vitality Resistance"
+      ]
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1600px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Chillheart Powder",
+    "stats": {
+      "player": [
+        "+35% Frostburn Damage",
+        "15% Cold Resistance",
+        "10% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-576px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Mortal Coil",
+    "stats": {
+      "player": [
+        "+25% Cold Damage",
+        "+25% Frostburn Damage",
+        "+150 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-416px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Necrotic Flesh",
+    "stats": {
+      "player": [
+        "+25% Vitality Damage",
+        "+25% Vitality Decay",
+        "15% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-3232px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Ritual Salts",
+    "stats": {
+      "player": [
+        "+70% Burn Damage",
+        "+70% Frostburn Damage",
+        "+70% Electrocute Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "accessory_augment",
+    "required_level": 40,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2944px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Keeper's Binding Dust",
+    "stats": {
+      "player": [
+        "+30% Vitality Damage"
+      ],
+      "pet": [
+        "18% Vitality Resistance",
+        "20% Stun Resistance",
+        "20% Freeze Resistance"
+      ]
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2528px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Malkadarr's Chillbane",
+    "stats": {
+      "player": [
+        "30 Frostburn Damage over 3 Seconds",
+        "+100% Frostburn Damage",
+        "+150 Health",
+        "+25 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1952px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Uroboruuk's Anguish",
+    "stats": {
+      "player": [
+        "+30% Vitality Damage",
+        "+30% Chaos Damage",
+        "+200 Health",
+        "10% Reflected Damage Reduction"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-160px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Uroboruuk's Path",
+    "stats": {
+      "player": [
+        "+30% Aether Damage",
+        "+4% Health",
+        "+1.2 Energy Regenerated per second"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-512px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Uroboruuk's Word",
+    "stats": {
+      "player": [
+        "+30% Cold Damage",
+        "+30% Vitality Damage",
+        "+18 Defensive Ability",
+        "18% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "accessory_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2976px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Spellward Powder",
+    "stats": {
+      "player": [
+        "9% Vitality Resistance",
+        "9% Aether Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1984px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Spiritguard Powder",
+    "stats": {
+      "player": [
+        "12% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1600px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Wraithtouch Powder",
+    "stats": {
+      "player": [
+        "18% Cold Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Order of Death's Vigil",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1376px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Bastion",
+    "stats": {
+      "player": [
+        "+10 Defensive Ability",
+        "8% Aether Resistance",
+        "8% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2592px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Deathtouch",
+    "stats": {
+      "player": [
+        "10 Vitality Damage",
+        "+35% Vitality Damage",
+        "+35% Vitality Decay",
+        "+200 Health"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1792px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Frostbite",
+    "stats": {
+      "player": [
+        "+35% Cold Damage",
+        "+35% Frostburn Damage",
+        "3% Chance to Freeze target for 2 Seconds",
+        "+200 Health"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2400px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Inferno",
+    "stats": {
+      "player": [
+        "+35% Fire Damage",
+        "+35% Burn Damage",
+        "+200 Health",
+        "12% Fire Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1888px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Might",
+    "stats": {
+      "player": [
+        "+35% Physical Damage",
+        "+25% Pierce Damage",
+        "+200 Health",
+        "8% Aether Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1728px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Riftstorm",
+    "stats": {
+      "player": [
+        "+35% Chaos Damage",
+        "+200 Health",
+        "+22 Offensive Ability",
+        "+1 Energy Regenerated per second"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2080px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Thunder",
+    "stats": {
+      "player": [
+        "+35% Lightning Damage",
+        "+35% Electrocute Damage",
+        "3% Chance to Stun target for 1.5 Seconds",
+        "+200 Health"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-384px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Venom",
+    "stats": {
+      "player": [
+        "10 Acid Damage",
+        "+35% Acid Damage",
+        "+35% Poison Damage",
+        "+200 Health"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2400px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Wrath",
+    "stats": {
+      "player": [
+        "+35% Aether Damage",
+        "+6% Damage to Aetherials",
+        "+6% Damage to Aether Corruptions",
+        "+200 Health",
+        "+22 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3296px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Outcast's Bastion",
+    "stats": {
+      "player": [
+        "+22 Defensive Ability",
+        "16% Aether Resistance",
+        "16% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-352px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Outcast's Deathtouch",
+    "stats": {
+      "player": [
+        "22 Vitality Damage",
+        "+80% Vitality Damage",
+        "+80% Vitality Decay",
+        "+440 Health"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2912px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Outcast's Frostbite",
+    "stats": {
+      "player": [
+        "+80% Cold Damage",
+        "+80% Frostburn Damage",
+        "6% Chance to Freeze target for 2 Seconds",
+        "+440 Health"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2368px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Outcast's Inferno",
+    "stats": {
+      "player": [
+        "+80% Fire Damage",
+        "+80% Burn Damage",
+        "+440 Health",
+        "24% Fire Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2016px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Outcast's Might",
+    "stats": {
+      "player": [
+        "+80% Physical Damage",
+        "+60% Pierce Damage",
+        "+440 Health",
+        "16% Aether Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3232px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Outcast's Riftstorm",
+    "stats": {
+      "player": [
+        "+80% Chaos Damage",
+        "+440 Health",
+        "+45 Offensive Ability",
+        "+2 Energy Regenerated per second"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1696px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Outcast's Thunder",
+    "stats": {
+      "player": [
+        "+80% Lightning Damage",
+        "+80% Electrocute Damage",
+        "6% Chance to Stun target for 1.5 Seconds",
+        "+440 Health"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2496px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Outcast's Venom",
+    "stats": {
+      "player": [
+        "22 Acid Damage",
+        "+80% Acid Damage",
+        "+80% Poison Damage",
+        "+440 Health"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1056px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Outcast's Wrath",
+    "stats": {
+      "player": [
+        "+80% Aether Damage",
+        "+12% Damage to Aetherials",
+        "+12% Damage to Aether Corruptions",
+        "+440 Health",
+        "+45 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "weapon_augment",
+    "required_level": 50,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3328px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Elemental Scales",
+    "stats": {
+      "player": [
+        "12% Fire Resistance",
+        "12% Cold Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-640px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Skyguard Powder",
+    "stats": {
+      "player": [
+        "12% Cold Resistance",
+        "12% Lightning Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1280px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Outcast's Warding Powder",
+    "stats": {
+      "player": [
+        "12% Aether Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "The Outcast",
+    "item_type": "armor_augment",
+    "required_level": 70,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2208px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Blight Beast Pustules",
+    "stats": {
+      "player": [
+        "+40% Acid Damage",
+        "+40% Poison Damage",
+        "+200 Health"
+      ],
+      "pet": [
+        "+20% to All Damage",
+        "Increases Armor by 8%"
+      ]
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-864px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Bloodrose Thorn",
+    "stats": {
+      "player": [
+        "36 Bleeding Damage over 3 Seconds",
+        "+36% Pierce Damage",
+        "+36% Bleeding Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-3008px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Hexxer's Bloom",
+    "stats": {
+      "player": [
+        "+36% Lightning Damage",
+        "+36% Aether Damage",
+        "+36% Electrocute Damage",
+        "8% Petrify Resistance"
+      ],
+      "pet": [
+        "+3% Offensive Ability"
+      ]
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-800px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Hexxer's Delight",
+    "stats": {
+      "player": [
+        "+36% Elemental Damage",
+        "+200 Health",
+        "+25 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1728px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Hexxer's Kiss",
+    "stats": {
+      "player": [
+        "+40% Fire Damage",
+        "+40% Chaos Damage",
+        "+40% Burn Damage",
+        "15% Chance of 15% Reduced target's Resistances for 5 Seconds"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-3072px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Magecap Powder",
+    "stats": {
+      "player": [
+        "+36% Fire Damage",
+        "+36% Cold Damage",
+        "+36% Burn Damage",
+        "+36% Frostburn Damage",
+        "8% Freeze Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1664px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Blight Beast Pustules",
+    "stats": {
+      "player": [
+        "+90% Acid Damage",
+        "+90% Poison Damage",
+        "+440 Health"
+      ],
+      "pet": [
+        "+45% to All Damage",
+        "Increases Armor by 16%"
+      ]
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2528px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Hexxer's Kiss",
+    "stats": {
+      "player": [
+        "+90% Fire Damage",
+        "+90% Chaos Damage",
+        "+90% Burn Damage",
+        "30% Chance of 15% Reduced target's Resistances for 5 Seconds"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-96px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Stardust",
+    "stats": {
+      "player": [
+        "+90% Cold Damage",
+        "+90% Lightning Damage",
+        "+90% Frostburn Damage",
+        "+90% Electrocute Damage",
+        "+8% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2176px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Whipvine Powder",
+    "stats": {
+      "player": [
+        "22 Physical Damage",
+        "+90% Physical Damage",
+        "+90% Internal Trauma Damage",
+        "+90% Bleeding Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2304px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Rotflesh Powder",
+    "stats": {
+      "player": [
+        "+36% Acid Damage",
+        "+36% Vitality Damage",
+        "+36% Poison Damage",
+        "+36% Vitality Decay",
+        "15% Life Leech Resistance",
+        "15% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1984px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Stardust",
+    "stats": {
+      "player": [
+        "+40% Cold Damage",
+        "+40% Lightning Damage",
+        "+40% Frostburn Damage",
+        "+40% Electrocute Damage",
+        "+4% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2944px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Void Tongue",
+    "stats": {
+      "player": [
+        "+36% Vitality Damage",
+        "+36% Chaos Damage",
+        "+36% Vitality Decay",
+        "8% Stun Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2304px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Whipvine Powder",
+    "stats": {
+      "player": [
+        "10 Physical Damage",
+        "+40% Physical Damage",
+        "+40% Internal Trauma Damage",
+        "+40% Bleeding Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-608px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Basilisk's Bite",
+    "stats": {
+      "player": [
+        "+50% Vitality Damage",
+        "+50% Bleeding Damage",
+        "+50% Vitality Decay",
+        "+350 Health",
+        "8% Stun Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2496px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Basilisk's Gaze",
+    "stats": {
+      "player": [
+        "+50% Acid Damage",
+        "+50% Chaos Damage",
+        "+50% Poison Damage",
+        "Increases Armor by 12%",
+        "Increases Armor Absorption by 10%"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2464px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Coven's Bane",
+    "stats": {
+      "player": [
+        "+55% Acid Damage",
+        "+55% Vitality Damage",
+        "+55% Poison Damage",
+        "+55% Vitality Decay",
+        "+1.2 Energy Regenerated per second",
+        "10% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2848px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Coven's Guile",
+    "stats": {
+      "player": [
+        "+55% Pierce Damage",
+        "+55% Cold Damage",
+        "+55% Frostburn Damage",
+        "+1.2 Energy Regenerated per second",
+        "10% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-448px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Coven's Terror",
+    "stats": {
+      "player": [
+        "+55% Physical Damage",
+        "+55% Chaos Damage",
+        "+55% Internal Trauma Damage",
+        "+250 Health",
+        "+4% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-992px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Coven's Wit",
+    "stats": {
+      "player": [
+        "+30 Offensive Ability",
+        "Increases Armor by 5%"
+      ],
+      "pet": [
+        "+25% to All Damage",
+        "+4% Total Speed"
+      ]
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2400px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Heart of Ugdenbog",
+    "stats": {
+      "player": [
+        "70 Internal Trauma over 5 Seconds",
+        "+6% Health",
+        "8% Petrify Resistance",
+        "+25% Shield Damage Blocked"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3200px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Coven's Bane",
+    "stats": {
+      "player": [
+        "+120% Acid Damage",
+        "+120% Vitality Damage",
+        "+120% Poison Damage",
+        "+120% Vitality Decay",
+        "+2.4 Energy Regenerated per second",
+        "20% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-864px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Coven's Guile",
+    "stats": {
+      "player": [
+        "+120% Pierce Damage",
+        "+120% Cold Damage",
+        "+120% Frostburn Damage",
+        "+2.4 Energy Regenerated per second",
+        "20% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1408px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Coven's Terror",
+    "stats": {
+      "player": [
+        "+120% Physical Damage",
+        "+120% Chaos Damage",
+        "+120% Internal Trauma Damage",
+        "+550 Health",
+        "+8% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2368px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Coven's Wit",
+    "stats": {
+      "player": [
+        "+60 Offensive Ability",
+        "Increases Armor by 10%"
+      ],
+      "pet": [
+        "+55% to All Damage",
+        "+8% Total Speed"
+      ]
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1472px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Skyshard Powder",
+    "stats": {
+      "player": [
+        "12 Lightning Damage",
+        "+50% Cold Damage",
+        "+50% Lightning Damage",
+        "+50% Frostburn Damage",
+        "+50% Electrocute Damage",
+        "+75 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3200px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Sylvarria's Essence",
+    "stats": {
+      "player": [
+        "+3% Offensive Ability",
+        "15% Poison & Acid Resistance"
+      ],
+      "pet": [
+        "+4% Offensive Ability",
+        "30% Poison & Acid Resistance"
+      ]
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3264px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Witch's Black Flame",
+    "stats": {
+      "player": [
+        "+50% Fire Damage",
+        "+50% Chaos Damage",
+        "+50% Burn Damage",
+        "+350 Health",
+        "8% Stun Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-544px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Wraith's Scream",
+    "stats": {
+      "player": [
+        "12 Vitality Damage",
+        "+50% Cold Damage",
+        "+50% Vitality Damage",
+        "+50% Frostburn Damage",
+        "+50% Vitality Decay",
+        "+75 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1216px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Coven Black Ash",
+    "stats": {
+      "player": [
+        "10% Pierce Resistance",
+        "10% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3356px -1216px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Coven Bloodied Ash",
+    "stats": {
+      "player": [
+        "Increases Health Regeneration by 8%",
+        "10% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-960px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Coven Warding Powder",
+    "stats": {
+      "player": [
+        "9% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Coven of Ugdenbog",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-672px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Bloodscale Powder",
+    "stats": {
+      "player": [
+        "+40% Bleeding Damage",
+        "+200 Health",
+        "+4% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-64px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Haunted Powder",
+    "stats": {
+      "player": [
+        "+40% Lightning Damage",
+        "+40% Aether Damage",
+        "+40% Electrocute Damage",
+        "10% Stun Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1120px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Bloodscale Powder",
+    "stats": {
+      "player": [
+        "+90% Bleeding Damage",
+        "+440 Health",
+        "+8% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1248px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Haunted Powder",
+    "stats": {
+      "player": [
+        "+90% Lightning Damage",
+        "+90% Aether Damage",
+        "+90% Electrocute Damage",
+        "20% Stun Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-704px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Spikeshell Powder",
+    "stats": {
+      "player": [
+        "+90% Cold Damage",
+        "+90% Acid Damage",
+        "+90% Frostburn Damage",
+        "+90% Poison Damage",
+        "+50 Offensive Ability"
+      ],
+      "pet": [
+        "+12% Health"
+      ]
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1440px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Wendigo Fur",
+    "stats": {
+      "player": [
+        "+90% Physical Damage",
+        "+90% Vitality Damage",
+        "+90% Internal Trauma Damage",
+        "+90% Vitality Decay",
+        "+440 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2624px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Spikeshell Powder",
+    "stats": {
+      "player": [
+        "+40% Cold Damage",
+        "+40% Acid Damage",
+        "+40% Frostburn Damage",
+        "+40% Poison Damage",
+        "+25 Offensive Ability"
+      ],
+      "pet": [
+        "+6% Health"
+      ]
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1824px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Wendigo Fur",
+    "stats": {
+      "player": [
+        "+40% Physical Damage",
+        "+40% Vitality Damage",
+        "+40% Internal Trauma Damage",
+        "+40% Vitality Decay",
+        "+200 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2624px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Ravager's Breath",
+    "stats": {
+      "player": [
+        "125 Poison Damage over 5 Seconds",
+        "+120% Pierce Damage",
+        "+120% Acid Damage",
+        "+120% Poison Damage",
+        "+550 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-96px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Ravager's Eye",
+    "stats": {
+      "player": [
+        "+8% Health",
+        "+6% Defensive Ability"
+      ],
+      "pet": [
+        "+55% to All Damage",
+        "+6% Offensive Ability"
+      ]
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-480px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Ravager's Harvest",
+    "stats": {
+      "player": [
+        "25 Vitality Damage",
+        "+120% Vitality Damage",
+        "+120% Bleeding Damage",
+        "+120% Vitality Decay",
+        "+550 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2496px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Ravager's Rage",
+    "stats": {
+      "player": [
+        "25 Fire Damage",
+        "+120% Fire Damage",
+        "+120% Aether Damage",
+        "+120% Burn Damage",
+        "20% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2880px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Ravager's Breath",
+    "stats": {
+      "player": [
+        "60 Poison Damage over 5 Seconds",
+        "+55% Pierce Damage",
+        "+55% Acid Damage",
+        "+55% Poison Damage",
+        "+250 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2240px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Ravager's Eye",
+    "stats": {
+      "player": [
+        "+4% Health",
+        "+3% Defensive Ability"
+      ],
+      "pet": [
+        "+25% to All Damage",
+        "+3% Offensive Ability"
+      ]
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1856px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Ravager's Harvest",
+    "stats": {
+      "player": [
+        "12 Vitality Damage",
+        "+55% Vitality Damage",
+        "+55% Bleeding Damage",
+        "+55% Vitality Decay",
+        "+250 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-576px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Ravager's Rage",
+    "stats": {
+      "player": [
+        "12 Fire Damage",
+        "+55% Fire Damage",
+        "+55% Aether Damage",
+        "+55% Burn Damage",
+        "10% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3008px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Wendigo Bloodscent Powder",
+    "stats": {
+      "player": [
+        "15% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2112px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Wendigo Lifescent Powder",
+    "stats": {
+      "player": [
+        "+4% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-512px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Wendigo Soulscent Powder",
+    "stats": {
+      "player": [
+        "15% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Barrowholm",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-32px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Blazecore Powder",
+    "stats": {
+      "player": [
+        "36 Burn Damage over 3 Seconds",
+        "+36% Fire Damage",
+        "+36% Lightning Damage",
+        "+36% Burn Damage",
+        "+36% Electrocute Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1312px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Colossus Spine",
+    "stats": {
+      "player": [
+        "+30 Physique",
+        "Increases Armor by 6%",
+        "Increases Armor Absorption by 5%"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1056px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Fleshwarp Powder",
+    "stats": {
+      "player": [
+        "60 Internal Trauma over 5 Seconds",
+        "+36% Physical Damage",
+        "+36% Aether Damage",
+        "+36% Internal Trauma Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-160px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Imp Eye Powder",
+    "stats": {
+      "player": [
+        "10 Aether Damage",
+        "+40% Vitality Damage",
+        "+40% Aether Damage",
+        "+40% Vitality Decay"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2752px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Machinist Powder",
+    "stats": {
+      "player": [
+        "+40% Physical Damage",
+        "+40% Pierce Damage",
+        "+40% Internal Trauma Damage",
+        "Increases Armor by 5%"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-960px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Mender's Powder",
+    "stats": {
+      "player": [],
+      "pet": [
+        "+10% Health",
+        "20% Aether Resistance",
+        "20% Chaos Resistance"
+      ]
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1280px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Nightsteel Polish",
+    "stats": {
+      "player": [
+        "10 Piercing Damage",
+        "+36% Pierce Damage",
+        "+36% Cold Damage",
+        "+36% Frostburn Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-288px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Imp Eye Powder",
+    "stats": {
+      "player": [
+        "22 Aether Damage",
+        "+90% Vitality Damage",
+        "+90% Aether Damage",
+        "+90% Vitality Decay"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-288px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Machinist Powder",
+    "stats": {
+      "player": [
+        "+90% Physical Damage",
+        "+90% Pierce Damage",
+        "+90% Internal Trauma Damage",
+        "Increases Armor by 10%"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1760px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Sparkbloom Powder",
+    "stats": {
+      "player": [
+        "22 Elemental Damage",
+        "+90% Elemental Damage",
+        "+50 Offensive Ability"
+      ],
+      "pet": [
+        "+6% Attack Speed"
+      ]
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1088px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Void Tar",
+    "stats": {
+      "player": [
+        "+90% Chaos Damage",
+        "+8% Health",
+        "Increases Armor by 10%"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1440px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Sparkbloom Powder",
+    "stats": {
+      "player": [
+        "10 Elemental Damage",
+        "+40% Elemental Damage",
+        "+25 Offensive Ability"
+      ],
+      "pet": [
+        "+3% Attack Speed"
+      ]
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-672px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Void Ash",
+    "stats": {
+      "player": [
+        "10 Chaos Damage",
+        "+36% Acid Damage",
+        "+36% Chaos Damage",
+        "+36% Poison Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2016px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Void Tar",
+    "stats": {
+      "player": [
+        "+40% Chaos Damage",
+        "+4% Health",
+        "Increases Armor by 5%"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-3264px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Arcane Heart Powder",
+    "stats": {
+      "player": [
+        "12 Fire Damage",
+        "+50% Fire Damage",
+        "+50% Aether Damage",
+        "+50% Burn Damage",
+        "+2% Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2272px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Arcanum Dust",
+    "stats": {
+      "player": [
+        "+35% to All Damage",
+        "+70 Defensive Ability",
+        "+2.5 Energy Regenerated per second",
+        "10% Elemental Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1920px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Forgefire",
+    "stats": {
+      "player": [
+        "15 Elemental Damage",
+        "+50% Aether Damage",
+        "+50% Elemental Damage",
+        "+70 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-640px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Hammerfall Powder",
+    "stats": {
+      "player": [
+        "10 Piercing Damage",
+        "+50% Physical Damage",
+        "+50% Pierce Damage",
+        "+50% Internal Trauma Damage",
+        "+70 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-896px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Malmouth's Heart",
+    "stats": {
+      "player": [
+        "12 Lightning Damage",
+        "+55% Fire Damage",
+        "+55% Lightning Damage",
+        "+55% Burn Damage",
+        "+55% Electrocute Damage",
+        "+250 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-800px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Malmouth's Redemption",
+    "stats": {
+      "player": [
+        "12 Cold Damage",
+        "+55% Cold Damage",
+        "+55% Frostburn Damage",
+        "10% Aether Resistance",
+        "Increases Armor by 5%"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "0 -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Malmouth's Soul",
+    "stats": {
+      "player": [
+        "12 Elemental Damage",
+        "+55% Aether Damage",
+        "+55% Elemental Damage",
+        "10% Pierce Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-768px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Malmouth's Will",
+    "stats": {
+      "player": [
+        "+55% Physical Damage",
+        "+55% Lightning Damage",
+        "+55% Internal Trauma Damage",
+        "+55% Electrocute Damage",
+        "+250 Health",
+        "10% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1472px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Malmouth's Heart",
+    "stats": {
+      "player": [
+        "25 Lightning Damage",
+        "+120% Fire Damage",
+        "+120% Lightning Damage",
+        "+120% Burn Damage",
+        "+120% Electrocute Damage",
+        "+550 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2080px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Malmouth's Redemption",
+    "stats": {
+      "player": [
+        "25 Cold Damage",
+        "+120% Cold Damage",
+        "+120% Frostburn Damage",
+        "20% Aether Resistance",
+        "Increases Armor by 10%"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-256px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Malmouth's Soul",
+    "stats": {
+      "player": [
+        "25 Elemental Damage",
+        "+120% Aether Damage",
+        "+120% Elemental Damage",
+        "20% Pierce Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2176px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Malmouth's Will",
+    "stats": {
+      "player": [
+        "+120% Physical Damage",
+        "+120% Lightning Damage",
+        "+120% Internal Trauma Damage",
+        "+120% Electrocute Damage",
+        "+550 Health",
+        "20% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2816px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Rotgut Venom",
+    "stats": {
+      "player": [
+        "+50% Acid Damage",
+        "+50% Poison Damage",
+        "+70 Defensive Ability",
+        "+2.5 Energy Regenerated per second"
+      ],
+      "pet": [
+        "+8% Attack Speed"
+      ]
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1632px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Steelbloom Powder",
+    "stats": {
+      "player": [
+        "12 Physical Damage",
+        "+50% Physical Damage",
+        "+50% Internal Trauma Damage",
+        "+50% Bleeding Damage",
+        "+2% Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-832px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Typhoon Powder",
+    "stats": {
+      "player": [
+        "+50% Pierce Damage",
+        "+50% Lightning Damage",
+        "+50% Electrocute Damage",
+        "+350 Health",
+        "+70 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1248px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Malmouth Fortifying Powder",
+    "stats": {
+      "player": [
+        "Increases Health Regeneration by 8%",
+        "10% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2240px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Malmouth Soulguard Powder",
+    "stats": {
+      "player": [
+        "10% Pierce Resistance",
+        "10% Aether Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3040px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Malmouth Woundsear Powder",
+    "stats": {
+      "player": [
+        "10% Vitality Resistance",
+        "10% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Malmouth Resistance",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-704px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Cinderbark Powder",
+    "stats": {
+      "player": [
+        "+36% Fire Damage",
+        "+36% Lightning Damage",
+        "+36% Burn Damage",
+        "+36% Electrocute Damage",
+        "15% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1152px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Korvan Sunpowder",
+    "stats": {
+      "player": [
+        "30 Burn Damage over 3 Seconds",
+        "+40% Physical Damage",
+        "+40% Fire Damage",
+        "+40% Internal Trauma Damage",
+        "+40% Burn Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1120px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Korvan Sunpowder",
+    "stats": {
+      "player": [
+        "66 Burn Damage over 3 Seconds",
+        "+90% Physical Damage",
+        "+90% Fire Damage",
+        "+90% Internal Trauma Damage",
+        "+90% Burn Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1856px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Sandclaw Fang",
+    "stats": {
+      "player": [
+        "66 Bleeding Damage over 3 Seconds",
+        "+90% Bleeding Damage"
+      ],
+      "pet": [
+        "24 Bleeding Damage over 3 Seconds",
+        "+45% to All Damage"
+      ]
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-544px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Viper Venom",
+    "stats": {
+      "player": [
+        "110 Poison Damage over 5 Seconds",
+        "+90% Cold Damage",
+        "+90% Acid Damage",
+        "+90% Frostburn Damage",
+        "+90% Poison Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1248px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Rotvine Powder",
+    "stats": {
+      "player": [
+        "+36% Cold Damage",
+        "+36% Vitality Damage",
+        "+36% Frostburn Damage",
+        "+36% Vitality Decay"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2688px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Sandclaw Fang",
+    "stats": {
+      "player": [
+        "30 Bleeding Damage over 3 Seconds",
+        "+40% Bleeding Damage"
+      ],
+      "pet": [
+        "12 Bleeding Damage over 3 Seconds",
+        "+20% to All Damage"
+      ]
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2080px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Sandclaw Scale",
+    "stats": {
+      "player": [
+        "+200 Health",
+        "15% Aether Resistance"
+      ],
+      "pet": [
+        "+4% Crit Damage",
+        "+8% Health"
+      ]
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-768px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Viper Scale",
+    "stats": {
+      "player": [
+        "+36% Pierce Damage",
+        "+200 Health",
+        "+20 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1568px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Viper Venom",
+    "stats": {
+      "player": [
+        "50 Poison Damage over 5 Seconds",
+        "+40% Cold Damage",
+        "+40% Acid Damage",
+        "+40% Frostburn Damage",
+        "+40% Poison Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-480px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Ateph's Command",
+    "stats": {
+      "player": [
+        "42 Bleeding Damage over 3 Seconds",
+        "+50% Bleeding Damage",
+        "Healing Effects Increased by 8%",
+        "Increases Armor by 8%"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1376px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Ateph's Glare",
+    "stats": {
+      "player": [
+        "12 Cold Damage",
+        "+50% Cold Damage",
+        "+50% Frostburn Damage",
+        "+250 Health",
+        "+2% Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1344px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Ateph's Promise",
+    "stats": {
+      "player": [
+        "+50% Lightning Damage",
+        "+50% Electrocute Damage",
+        "+350 Health",
+        "+3% Defensive Ability",
+        "8% Petrify Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1632px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Ateph's Will",
+    "stats": {
+      "player": [
+        "+6% Health",
+        "Increases Armor by 8%"
+      ],
+      "pet": [
+        "+8% Attack Speed",
+        "30% Bleeding Resistance"
+      ]
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1888px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Bysmiel's Control",
+    "stats": {
+      "player": [
+        "+250 Health"
+      ],
+      "pet": [
+        "+25% to All Damage",
+        "+6% Crit Damage",
+        "Increases Armor by 10%"
+      ]
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2336px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Bysmiel's Cunning",
+    "stats": {
+      "player": [
+        "60 Internal Trauma over 5 Seconds",
+        "+55% Physical Damage",
+        "+55% Pierce Damage",
+        "+55% Internal Trauma Damage",
+        "+250 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1184px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Bysmiel's Shroud",
+    "stats": {
+      "player": [
+        "12 Aether Damage",
+        "+55% Physical Damage",
+        "+55% Aether Damage",
+        "+55% Internal Trauma Damage",
+        "+30 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2592px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Bysmiel's Control",
+    "stats": {
+      "player": [
+        "+550 Health"
+      ],
+      "pet": [
+        "+55% to All Damage",
+        "+12% Crit Damage",
+        "Increases Armor by 20%"
+      ]
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1088px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Bysmiel's Cunning",
+    "stats": {
+      "player": [
+        "125 Internal Trauma over 5 Seconds",
+        "+120% Physical Damage",
+        "+120% Pierce Damage",
+        "+120% Internal Trauma Damage",
+        "+550 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3360px -1376px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Bysmiel's Shroud",
+    "stats": {
+      "player": [
+        "25 Aether Damage",
+        "+120% Physical Damage",
+        "+120% Aether Damage",
+        "+120% Internal Trauma Damage",
+        "+60 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2560px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Bysmiel's Desert Barb",
+    "stats": {
+      "player": [
+        "15% Pierce Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3328px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Bysmiel's Silversand",
+    "stats": {
+      "player": [
+        "+16 Defensive Ability",
+        "+16 Health Regenerated per second"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-832px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Bysmiel's Veiltouch",
+    "stats": {
+      "player": [
+        "12% Poison & Acid Resistance",
+        "10% Aether Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Bysmiel",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2432px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Eldritch Bloom Powder",
+    "stats": {
+      "player": [
+        "+40% Elemental Damage",
+        "10% Chaos Resistance"
+      ],
+      "pet": [
+        "4 Elemental Damage",
+        "+20% to All Damage"
+      ]
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1056px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Gargoyle Fang",
+    "stats": {
+      "player": [
+        "+36% Physical Damage",
+        "+36% Cold Damage",
+        "+36% Internal Trauma Damage",
+        "+36% Frostburn Damage",
+        "+20 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1856px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Korvan Cactus Powder",
+    "stats": {
+      "player": [
+        "+40% Acid Damage",
+        "+40% Vitality Damage",
+        "+40% Poison Damage",
+        "+40% Vitality Decay",
+        "+200 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1792px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Eldritch Bloom Powder",
+    "stats": {
+      "player": [
+        "+90% Elemental Damage",
+        "20% Chaos Resistance"
+      ],
+      "pet": [
+        "8 Elemental Damage",
+        "+45% to All Damage"
+      ]
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-3136px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Korvan Cactus Powder",
+    "stats": {
+      "player": [
+        "+90% Acid Damage",
+        "+90% Vitality Damage",
+        "+90% Poison Damage",
+        "+90% Vitality Decay",
+        "+440 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1312px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Scarabshell Powder",
+    "stats": {
+      "player": [
+        "+90% Lightning Damage",
+        "+90% Aether Damage",
+        "+90% Electrocute Damage",
+        "+50 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-192px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Sagethorn Powder",
+    "stats": {
+      "player": [
+        "+36% Pierce Damage",
+        "+36% Bleeding Damage",
+        "15% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1216px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Scarabshell Powder",
+    "stats": {
+      "player": [
+        "+40% Lightning Damage",
+        "+40% Aether Damage",
+        "+40% Electrocute Damage",
+        "+25 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1920px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Veilworm Powder",
+    "stats": {
+      "player": [
+        "+36% Aether Damage",
+        "15% Poison & Acid Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-224px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Void Salt",
+    "stats": {
+      "player": [
+        "+36% Fire Damage",
+        "+36% Chaos Damage",
+        "+36% Burn Damage",
+        "+20 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2048px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Dreeg's Foresight",
+    "stats": {
+      "player": [
+        "+55% Elemental Damage",
+        "+4% Health",
+        "+1.2 Energy Regenerated per second",
+        "10% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-896px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Dreeg's Spinedust",
+    "stats": {
+      "player": [
+        "12 Acid Damage",
+        "+55% Acid Damage",
+        "+55% Poison Damage",
+        "+250 Health",
+        "10% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2560px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Dreeg's Terror",
+    "stats": {
+      "player": [
+        "12 Chaos Damage",
+        "+55% Vitality Damage",
+        "+55% Chaos Damage",
+        "+55% Vitality Decay",
+        "10% Pierce Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1568px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Osyr's Fortitude",
+    "stats": {
+      "player": [
+        "+350 Health",
+        "+25% Shield Damage Blocked",
+        "104 Fire Retaliation",
+        "+25% to All Retaliation Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-928px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Osyr's Guidance",
+    "stats": {
+      "player": [
+        "+3% Offensive Ability",
+        "+1.5 Energy Regenerated per second"
+      ],
+      "pet": [
+        "+6% Crit Damage",
+        "+3% Offensive Ability"
+      ]
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1120px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Osyr's Temper",
+    "stats": {
+      "player": [
+        "12 Chaos Damage",
+        "+50% Chaos Damage",
+        "+55 Offensive Ability",
+        "+50 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1600px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Osyr's Wisdom",
+    "stats": {
+      "player": [
+        "+50% Elemental Damage",
+        "+3% Offensive Ability",
+        "15% Vitality Resistance",
+        "15% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1152px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Dreeg's Foresight",
+    "stats": {
+      "player": [
+        "+120% Elemental Damage",
+        "+8% Health",
+        "+2.4 Energy Regenerated per second",
+        "20% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-992px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Dreeg's Spinedust",
+    "stats": {
+      "player": [
+        "25 Acid Damage",
+        "+120% Acid Damage",
+        "+120% Poison Damage",
+        "+550 Health",
+        "20% Bleeding Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-384px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Dreeg's Terror",
+    "stats": {
+      "player": [
+        "25 Chaos Damage",
+        "+120% Vitality Damage",
+        "+120% Chaos Damage",
+        "+120% Vitality Decay",
+        "20% Pierce Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2112px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Dreeg's Fiendblood",
+    "stats": {
+      "player": [
+        "12% Poison & Acid Resistance",
+        "10% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3168px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Dreeg's Omen",
+    "stats": {
+      "player": [
+        "+30 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1536px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Dreeg's Veilward",
+    "stats": {
+      "player": [
+        "+8% Constitution",
+        "15% Aether Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Dreeg",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2048px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Desert Tongue",
+    "stats": {
+      "player": [
+        "10 Chaos Damage",
+        "+36% Chaos Damage"
+      ],
+      "pet": [
+        "4 Chaos Damage",
+        "+18% to All Damage"
+      ]
+    },
+    "faction": "Cult of Solael",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2272px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Duskbloom",
+    "stats": {
+      "player": [
+        "+40% Chaos Damage",
+        "+20 Defensive Ability",
+        "Increases Armor by 5%"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-448px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Gargoyle Scale",
+    "stats": {
+      "player": [
+        "50 Internal Trauma over 5 Seconds",
+        "+40% Physical Damage",
+        "+40% Internal Trauma Damage",
+        "+25 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2304px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Gryphon Talon",
+    "stats": {
+      "player": [
+        "+40% Vitality Damage",
+        "+40% Bleeding Damage",
+        "+40% Vitality Decay",
+        "+4% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-128px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Keeper's Essence",
+    "stats": {
+      "player": [
+        "+36% Elemental Damage",
+        "+20 Defensive Ability",
+        "Increases Armor by 4%"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-320px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Duskbloom",
+    "stats": {
+      "player": [
+        "+90% Chaos Damage",
+        "+40 Defensive Ability",
+        "Increases Armor by 10%"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1280px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Gargoyle Scale",
+    "stats": {
+      "player": [
+        "110 Internal Trauma over 5 Seconds",
+        "+90% Physical Damage",
+        "+90% Internal Trauma Damage",
+        "+50 Offensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1952px -2592px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Gryphon Talon",
+    "stats": {
+      "player": [
+        "+90% Vitality Damage",
+        "+90% Bleeding Damage",
+        "+90% Vitality Decay",
+        "+8% Health"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-3136px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Scorpius Venom",
+    "stats": {
+      "player": [
+        "10 Acid Damage",
+        "+36% Pierce Damage",
+        "+36% Acid Damage",
+        "+36% Poison Damage"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-2560px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Soulwarp Powder",
+    "stats": {
+      "player": [
+        "+36% Fire Damage",
+        "+36% Aether Damage",
+        "+36% Burn Damage",
+        "+20 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "accessory_augment",
+    "required_level": 65,
+    "required_reputation": "honored",
+    "sprite": {
+      "background_position": "-1824px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Irrah's Blood",
+    "stats": {
+      "player": [
+        "45 Vitality Decay Damage over 3 Seconds",
+        "+50% Vitality Damage",
+        "+50% Vitality Decay",
+        "+70 Defensive Ability",
+        "15% Aether Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1184px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Irrah's Patience",
+    "stats": {
+      "player": [
+        "+350 Health",
+        "+5% Health",
+        "8% Petrify Resistance",
+        "Increases Armor by 6%"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3168px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Irrah's Soulfire",
+    "stats": {
+      "player": [
+        "12 Aether Damage",
+        "+50% Fire Damage",
+        "+50% Aether Damage",
+        "+50% Burn Damage",
+        "+70 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1984px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Irrah's Venomtongue",
+    "stats": {
+      "player": [
+        "+50% Acid Damage",
+        "+50% Poison Damage",
+        "+75 Offensive Ability"
+      ],
+      "pet": [
+        "+6% Crit Damage",
+        "+60% Poison Damage"
+      ]
+    },
+    "faction": "Cult of Solael",
+    "item_type": "accessory_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1408px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Solael's Glare",
+    "stats": {
+      "player": [
+        "+120% Cold Damage",
+        "+120% Lightning Damage",
+        "+120% Frostburn Damage",
+        "+120% Electrocute Damage",
+        "+550 Health",
+        "20% Pierce Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-928px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Solael's Vision",
+    "stats": {
+      "player": [
+        "+120% Fire Damage",
+        "+120% Lightning Damage",
+        "+120% Burn Damage",
+        "+120% Electrocute Damage",
+        "+550 Health",
+        "20% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2528px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Potent Solael's Voracity",
+    "stats": {
+      "player": [
+        "25 Piercing Damage",
+        "+120% Pierce Damage",
+        "+120% Bleeding Damage",
+        "+550 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-3040px -2656px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Solael's Glare",
+    "stats": {
+      "player": [
+        "+55% Cold Damage",
+        "+55% Lightning Damage",
+        "+55% Frostburn Damage",
+        "+55% Electrocute Damage",
+        "+250 Health",
+        "10% Pierce Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-864px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Solael's Vision",
+    "stats": {
+      "player": [
+        "+55% Fire Damage",
+        "+55% Lightning Damage",
+        "+55% Burn Damage",
+        "+55% Electrocute Damage",
+        "+250 Health",
+        "10% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-256px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Solael's Voracity",
+    "stats": {
+      "player": [
+        "12 Piercing Damage",
+        "+55% Pierce Damage",
+        "+55% Bleeding Damage",
+        "+250 Health"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "weapon_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-2752px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Solael's Bloodbinding",
+    "stats": {
+      "player": [
+        "+150 Health",
+        "+16 Defensive Ability"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-320px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Solael's Soulbinding",
+    "stats": {
+      "player": [
+        "10% Pierce Resistance",
+        "10% Vitality Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1568px -2784px",
+      "width": "32px",
+      "height": "64px"
+    }
+  },
+  {
+    "name": "Solael's Voidward",
+    "stats": {
+      "player": [
+        "15% Chaos Resistance"
+      ],
+      "pet": []
+    },
+    "faction": "Cult of Solael",
+    "item_type": "armor_augment",
+    "required_level": 90,
+    "required_reputation": "revered",
+    "sprite": {
+      "background_position": "-1440px -2720px",
+      "width": "32px",
+      "height": "64px"
+    }
+  }
+]
