@@ -19,12 +19,12 @@ h2 {
     text-shadow: 0 0 18px #a8763440;
 }
 
-/* ─── Search, Level Selection & Filter Buttons ───────────────────────────────────── */
+/* ─── Search, Level Selection, Filter Buttons, Potent Toggle ───────────────────────────────────── */
 
 #search-and-buttons-area {
-    padding: 10px 10px 14px;
+    padding: 10px 10px 10px;
+    margin-bottom: 1rem;
     border-bottom: 1px solid #2a2826;
-    margin-bottom: 1.5rem;
 }
 
 #search-and-level-selection-rows {
@@ -55,22 +55,23 @@ h2 {
             border-color: #deb46e;
         }
 
-        #level-selection-row {
-            display: flex;
-            align-items: center;
-            gap: 8px;
+    #level-selection-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+        .level-selection {
+            background-color: transparent;
+            border: 1px solid #a87635;
+            color: #deb46e;
+            font-family: 'Cinzel', serif;
+            font-size: 0.8rem;
+            padding: 6px 10px;
+            border-radius: 4px;
+            outline: none;
+            cursor: pointer;
         }
-            .level-selection {
-                background-color: transparent;
-                border: 1px solid #a87635;
-                color: #deb46e;
-                font-family: 'Cinzel', serif;
-                font-size: 0.8rem;
-                padding: 6px 10px;
-                border-radius: 4px;
-                outline: none;
-                cursor: pointer;
-            }
 
             .level-label {
                 font-family: 'Cinzel', serif;
@@ -95,25 +96,71 @@ h2 {
     gap: 6px;
 }
 
-.filter-btn {
-    flex: 1;
-    text-align: center;
-    background-color: transparent;
-    border: 1px solid #a87635;
-    color: #a87635;
+    .filter-btn {
+        flex: 1;
+        text-align: center;
+        background-color: transparent;
+        border: 1px solid #a87635;
+        color: #a87635;
+        font-family: 'Cinzel', serif;
+        font-size: 0.72rem;
+        font-weight: bold;
+        padding: 3px 10px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.15s, color 0.15s;
+    }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            background-color: #a87635;
+            color: #11100f;
+        }
+
+#show-potent-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 8px;
+    gap: 8px;
+    cursor: pointer;
     font-family: 'Cinzel', serif;
     font-size: 0.72rem;
     font-weight: bold;
-    padding: 3px 10px;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.15s, color 0.15s;
+    color: #a87635;
 }
 
-    .filter-btn:hover,
-    .filter-btn.active {
-        background-color: #a87635;
-        color: #11100f;
+    #show-potent-toggle input {
+        display: none;
+    }
+
+    #show-potent-toggle span {
+        position: relative;
+        width: 36px;
+        height: 20px;
+        background-color: #cc3333;
+        border-radius: 999px;
+        transition: background-color 0.2s;
+    }
+
+    #show-potent-toggle span::after {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        background: white;
+        border-radius: 50%;
+        top: 3px;
+        left: 3px;
+        transition: left 0.2s;
+    }
+
+    #show-potent-toggle input:checked + span {
+        background-color: #4caf50;
+    }
+
+    #show-potent-toggle input:checked + span::after {
+        left: 19px;
     }
 
 /* ─── Factions Layout ───────────────────────────────────── */

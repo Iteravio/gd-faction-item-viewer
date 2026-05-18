@@ -5,6 +5,7 @@ let items = [];
 let selectedLevelMin = 0;
 let selectedLevelMax = 90;
 let activeFilter = "all_augments";
+let showPotent = true;
 
 const searchInput = document.getElementById("searchInput");
 let searchQuery = "";
@@ -233,6 +234,11 @@ document.querySelectorAll(".filter-btn").forEach(btn => {
     });
 });
 
+document.querySelector("#show-potent-toggle input").addEventListener("change", (event) => {
+    showPotent = event.target.checked;
+    render_faction_items(get_filtered_items());
+});
+
 function get_filtered_items() {
     let filteredItems = items;
 
@@ -263,6 +269,10 @@ function get_filtered_items() {
 
             return nameMatch || statsMatch;
         })
+    }
+
+    if (!showPotent) {
+        filteredItems = filteredItems.filter(item => !item.name.startsWith("Potent "));
     }
 
     return filteredItems

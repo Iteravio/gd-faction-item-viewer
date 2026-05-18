@@ -10,6 +10,7 @@
         <h2>Grim Dawn Faction Item Viewer</h2>
 
          <div id="search-and-buttons-area">
+
             <div id="search-and-level-selection-rows">
                <input type="text" id="searchInput" autocomplete="off" placeholder="Search items, stats, resistances..." />
 
@@ -35,6 +36,7 @@
 
                </div>
             </div>
+
             <div id="buttons-area">
                 <button class="filter-btn active" data-type="all_augments">All Augments</button>
                 <button class="filter-btn" data-type="accessory_augment">Accessory Augments</button>
@@ -42,7 +44,15 @@
                 <button class="filter-btn" data-type="armor_augment">Armor Augments</button>
                 <button class="filter-btn" data-type="pet_augment">Pet Augments</button>
             </div>
+
+               <label id="show-potent-toggle">
+                  SHOW POTENT ITEMS?
+                  <input type="checkbox" checked>
+                  <span></span>
+               </label>
+
          </div>
+
 
          <div id="all-factions-area">
             <div class="faction-area" id="devils-crossing-area">
