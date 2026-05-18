@@ -11,9 +11,10 @@ const searchInput = document.getElementById("searchInput");
 let searchQuery = "";
 
 const itemTypeMetadata = {
-    accessory_augment: { label: "Ring/Amulet",         color: "#fff62c" },
-    weapon_augment:    { label: "Weapon",              color: "#fff62c" },
-    armor_augment:     { label: "All Armor",           color: "#fff62c" },
+    "accessory_augment": { label: "Ring/Amulet",            color: "#fff62c" },
+    "weapon_augment":    { label: "Weapon/Shield/Off-hand", color: "#fff62c" },
+    "2h_weapon_augment": { label: "2H Weapon Only",         color: "#fff62c" },
+    "armor_augment":     { label: "All Armor",              color: "#fff62c" }
 }
 
 const colorTextMetadata = {
@@ -115,6 +116,9 @@ function create_item_card(item) {
     const augmentType = document.createElement("div");
     augmentType.className = "augment-type"
     augmentType.textContent = itemTypeMetadata[item.item_type].label;
+    if (item.name.startsWith("Potent ")) {
+        augmentType.textContent = itemTypeMetadata["2h_weapon_augment"].label;
+    }
 
     const imgAndStats = document.createElement("div");
     imgAndStats.className = "item-img-and-stats"
