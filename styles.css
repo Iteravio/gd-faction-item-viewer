@@ -216,8 +216,9 @@ h2 {
 
 .item-card {
     background-color: #171614;
-    border: 1px solid #2a2826;
+    border: 1px solid #201f1f;
     border-radius: 6px;
+    box-shadow: rgb(0, 0, 0) 0px 2px 3px -1px;
     padding: 0.5rem;
     transition: background-color 0.15s, border-color 0.15s;
 }
